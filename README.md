@@ -18,13 +18,13 @@ This project demonstrates how **real-world data pipelines** can be built — fro
 *(You can replace these with your actual dashboard images hosted in your repository.)*
 
 ### 🏏 **Batting Dashboard**
-![Batting Dashboard]([images/batting_dashboard.png](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Batting_1.PNG))
+![Batting Dashboard](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Batting_1.PNG)
 
 ### 🎯 **Bowling Dashboard**
-![Bowling Dashboard]([images/bowling_dashboard.png](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Bowling_1.png))
+![Bowling Dashboard](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Bowling_1.png)
 
 ### 🧤 **Fielding Dashboard**
-![Fielding Dashboard]([images/fielding_dashboard.png](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Fielding_1.png)
+![Fielding Dashboard](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Fielding_1.png)
 
 
 ---
