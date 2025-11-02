@@ -18,13 +18,13 @@ This project demonstrates how **real-world data pipelines** can be built — fro
 *(You can replace these with your actual dashboard images hosted in your repository.)*
 
 ### 🏏 **Batting Dashboard**
-![Batting Dashboard](images/batting_dashboard.png)
+![Batting Dashboard]([images/batting_dashboard.png](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Batting_1.PNG))
 
 ### 🎯 **Bowling Dashboard**
-![Bowling Dashboard](images/bowling_dashboard.png)
+![Bowling Dashboard]([images/bowling_dashboard.png](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Bowling_1.png))
 
 ### 🧤 **Fielding Dashboard**
-![Fielding Dashboard](images/fielding_dashboard.png)
+![Fielding Dashboard]([images/fielding_dashboard.png](https://github.com/grandline-coder/powerbi-cricket-performance-analysis/blob/main/images/Fielding_1.png)
 
 
 ---
@@ -32,9 +32,7 @@ This project demonstrates how **real-world data pipelines** can be built — fro
 ## 🔗 Live Dashboard Link
 
 Explore the interactive Power BI dashboard here:  
-👉 [**View Power BI Dashboard**](https://app.powerbi.com/view?r=YOUR_DASHBOARD_LINK_HERE)
-
-*(Replace with your actual published Power BI report link.)*
+👉 [**View Power BI Dashboard**](https://app.powerbi.com/links/649ax9-bW_?ctid=fbe9137e-2f40-4d34-88cd-cc8cb4c515ee&pbi_source=linkShare)
 
 ---
 
